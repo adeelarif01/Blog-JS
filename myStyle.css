@@ -1,0 +1,42 @@
+.container-fluid{
+   
+    background-image: url(https://st.depositphotos.com/1092019/1861/i/380/depositphotos_18610959-stock-photo-blank-speech-bubble.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.card{
+    border: 2px solid rgb(3, 71, 110);
+    border-radius: 4px;
+}
+.card-header{
+    
+    background-color: rgb(3, 71, 110) ;
+}
+.card-body{
+    background-color:rgb(66, 133, 172) ;
+}
+.btn{
+    background-color: rgb(3, 71, 110) ;
+}
+.btn-bg{
+    background-color: rgb(100, 163, 199) ;
+}
+span{
+    background-color: rgb(100, 163, 199) ;
+}
+.btn-c{
+    float: right;
+
+}
+.btn-del{
+    background-color: rgb(131, 53, 53);
+    color: whitesmoke;
+}
+.btn-edit{
+    background-color: rgb(69, 112, 69);
+    color: whitesmoke;
+}
+.update{
+    background-color: rgb(3, 71, 110) ;
+}

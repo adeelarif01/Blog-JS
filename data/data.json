@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "60e9",
+      "title": "How to create blog?",
+      "author": "Muhammad Imran",
+      "description": "Write description of your blog Write description of your blog Write description of your blog Write description of your blog Write description of your blog "
+    },
+    {
+      "id": "c808",
+      "title": "How to play slice shots?",
+      "author": "Muhammad Arshad",
+      "description": "Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description Write your blog description "
+    }
+  ]
+}
